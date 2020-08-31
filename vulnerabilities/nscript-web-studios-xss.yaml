@@ -8,6 +8,7 @@ info:
   #Google Dork: "Powered by : Nscript web studios"
   #Vendor Homepage: nscript.com
   #Software Link: https://nscript.com/portfolio
+  #Demo Target: http://apjsingapore.com
 
 requests:
   - method: GET
