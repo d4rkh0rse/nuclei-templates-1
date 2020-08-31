@@ -2,7 +2,7 @@ id: Serverlet XSS  # WebLogic
 
 info:
   author: "pikpikcu"
-  name: "Servlet/2.5 JSP/2.1 XSS"
+  name: "WebLogic Servlet/2.5 JSP/2.1 XSS"
   severity: Medium
 
     # Payloads: '"><script>javascript:alert(document.cookie)</script>
